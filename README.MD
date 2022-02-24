@@ -6,7 +6,7 @@ Before                     |  After
 
 ## Installation:
 * Open up _Jellyfin Settings -> Dashboard -> General -> Custom CSS_
-* Copy custom.css file contents and append them into the _Custom CSS_ text area.
+* Copy [custom.css](custom.css) file contents and append them into the _Custom CSS_ text area.
 
 Compatible with any other skin or theme in use.
 
