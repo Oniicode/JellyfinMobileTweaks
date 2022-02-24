@@ -2,7 +2,7 @@
 
 Before                     |  After
 :-------------------------:|:-------------------------:
-![](/screenshots/before.png?raw=true)  |  ![](/screenshots/after.png?raw=true)
+![](/screenshots/before.jpeg?raw=true)  |  ![](/screenshots/after.jpeg?raw=true)
 
 ## Installation:
 * Open up _Jellyfin Settings -> Dashboard -> General -> Custom CSS_
