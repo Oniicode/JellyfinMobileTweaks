@@ -1,0 +1,46 @@
+/* Jellyfin Mobile Tweaks */
+@media all and (max-width: 60em) { /* idk this value might vary based on screen size and dpi */
+    .section0 .cardBox {
+        width: 7em;
+    }
+
+    .skinHeader {
+        background: linear-gradient(#101010, transparent) !important;
+    }
+
+    .verticalSection .emby-scroller {
+        margin-left: 8px !important;
+        padding-left: 0 !important;
+        margin-right: unset;
+    }
+
+    .verticalSection .sectionTitle-cards.padded-left {
+        padding-left: 8px !important;
+        font-size: 1.1em;
+    }
+
+    .verticalSection .sectionTitleContainer-cards.padded-left {
+        padding-left: 8px !important;
+        font-size: 0.7em;
+    }
+
+    #itemDetailPage .detailPageWrapperContainer {
+        margin-top: 0;
+    }
+
+    .card {
+        width: initial !important;
+    }
+
+    .cardBox {
+        width: 7.4em;
+    }
+
+    #indexPage .cardBox {
+        width: 8.3em;
+    }
+
+    .itemsContainer > .card > .cardBox {
+        margin-right: 0.5em;
+    }
+}
